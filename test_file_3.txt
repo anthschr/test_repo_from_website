@@ -1,1 +1,2 @@
 This is test file 3.
+I am adding a line to file 3 to then push to git hub
