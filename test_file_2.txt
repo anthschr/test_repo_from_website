@@ -1,1 +1,2 @@
-This is test file 2.
+This is a modified first line for file 2 on the new_branch branch.
+I am adding a line to this file in the new_branch branch
